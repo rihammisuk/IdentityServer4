@@ -10,7 +10,7 @@ IdentityServer Options
     Set to ``false`` to preserve the original casing of the IssuerUri. Defaults to ``true``.
 
 * ``AccessTokenJwtType``
-    Specifies the value used for the JWT typ header for access tokens (defaults to ``at+jwt``).
+    Specifies the value used for the JWT type header for access tokens (defaults to ``at+jwt``).
 
 * ``EmitScopesAsSpaceDelimitedStringInJwt``
     Specifies whether scopes in JWTs are emitted as array or string
